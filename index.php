@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>media BEM Tasik</title>
+	<title>media BEM Tasik tambah</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
